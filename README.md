@@ -5,9 +5,11 @@
 
 **Keep your Mac awake — straight from the menu bar.**
 
-A tiny menu-bar app that stops your Mac from sleeping while you're presenting,
-downloading, compiling, or reading. One click to toggle, or pick a timer and
-let it switch itself off. No dock icon, no window, no fuss.
+Lucid is a tiny macOS menu-bar app that stops your Mac from going to sleep — handy
+when you're presenting, downloading, compiling, or just reading and don't want the
+screen to dim. Click once to stay awake until you turn it off, or pick a timer
+(30 minutes, 1, 2, or 5 hours) and it switches itself off. While it's active the
+menu-bar icon glows and shows a live countdown — no dock icon, no window, no fuss.
 
 > ⚠️ **Status:** v0.1, early but working. macOS only.
 
