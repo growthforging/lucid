@@ -1,7 +1,7 @@
 {
   "name": "lucid",
   "private": true,
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Keep your Mac awake from the menu bar (wraps caffeinate), with timers and a live countdown.",
   "license": "MIT",
   "type": "module",
